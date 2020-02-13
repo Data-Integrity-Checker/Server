@@ -1,0 +1,6994 @@
+[
+    {
+        "_id": "5e34bfa9f83377001b5c8586",
+        "location": {
+            "coordinates": [
+                -123.118163,
+                38.960513
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544007.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c017f83377001b5c8595",
+        "location": {
+            "coordinates": [
+                -123.118123,
+                38.960465
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544008.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c00da75fd7001b56195d",
+        "location": {
+            "coordinates": [
+                -123.118185,
+                38.960485
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544008.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c024a75fd7001b561967",
+        "location": {
+            "coordinates": [
+                -123.118163,
+                38.960438
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544010.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34bfa9f83377001b5c8587",
+        "location": {
+            "coordinates": [
+                -123.118077,
+                38.960532
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544017.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34bfa9f83377001b5c8589",
+        "location": {
+            "coordinates": [
+                -123.118077,
+                38.960532
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544017.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c017a75fd7001b561963",
+        "location": {
+            "coordinates": [
+                -123.118032,
+                38.960488
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544018.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c00df83377001b5c858e",
+        "location": {
+            "coordinates": [
+                -123.118098,
+                38.960502
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544018.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c024f83377001b5c859c",
+        "location": {
+            "coordinates": [
+                -123.118067,
+                38.960458
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544020.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c017a75fd7001b561965",
+        "location": {
+            "coordinates": [
+                -123.117997,
+                38.960493
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544028.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c00da75fd7001b56195a",
+        "location": {
+            "coordinates": [
+                -123.118008,
+                38.960523
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544028.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c024f83377001b5c85a1",
+        "location": {
+            "coordinates": [
+                -123.11801,
+                38.96043
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544030.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c040f83377001b5c85a3",
+        "location": {
+            "coordinates": [
+                -123.118018,
+                38.960488
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544037.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c017a75fd7001b56195f",
+        "location": {
+            "coordinates": [
+                -123.117995,
+                38.960482
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544038.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c00df83377001b5c8591",
+        "location": {
+            "coordinates": [
+                -123.117953,
+                38.96048
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544038.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c024a75fd7001b56196d",
+        "location": {
+            "coordinates": [
+                -123.118003,
+                38.960408
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544040.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c040f83377001b5c85a6",
+        "location": {
+            "coordinates": [
+                -123.117988,
+                38.960375
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544047.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c017f83377001b5c8597",
+        "location": {
+            "coordinates": [
+                -123.118007,
+                38.960492
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544048.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c00df83377001b5c858f",
+        "location": {
+            "coordinates": [
+                -123.117927,
+                38.960392
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544048.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c024a75fd7001b56196a",
+        "location": {
+            "coordinates": [
+                -123.117953,
+                38.960418
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544050.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c040f83377001b5c85a5",
+        "location": {
+            "coordinates": [
+                -123.117963,
+                38.960328
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544057.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c017f83377001b5c8596",
+        "location": {
+            "coordinates": [
+                -123.118007,
+                38.960492
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544058.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c00df83377001b5c8592",
+        "location": {
+            "coordinates": [
+                -123.117897,
+                38.960303
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544058.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c024f83377001b5c85a2",
+        "location": {
+            "coordinates": [
+                -123.117952,
+                38.960425
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544060.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c040a75fd7001b561975",
+        "location": {
+            "coordinates": [
+                -123.117948,
+                38.960313
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544067.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c017f83377001b5c8594",
+        "location": {
+            "coordinates": [
+                -123.118007,
+                38.960492
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544068.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c00da75fd7001b56195c",
+        "location": {
+            "coordinates": [
+                -123.11787,
+                38.960213
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544068.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c024f83377001b5c859d",
+        "location": {
+            "coordinates": [
+                -123.117952,
+                38.960435
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544070.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c040a75fd7001b56196f",
+        "location": {
+            "coordinates": [
+                -123.117948,
+                38.960313
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544077.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c017a75fd7001b561966",
+        "location": {
+            "coordinates": [
+                -123.118007,
+                38.960492
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544078.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c00df83377001b5c8590",
+        "location": {
+            "coordinates": [
+                -123.117867,
+                38.960133
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544078.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c024a75fd7001b56196c",
+        "location": {
+            "coordinates": [
+                -123.117952,
+                38.960435
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544080.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c040a75fd7001b561970",
+        "location": {
+            "coordinates": [
+                -123.117948,
+                38.960313
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544087.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c017a75fd7001b561964",
+        "location": {
+            "coordinates": [
+                -123.118007,
+                38.960492
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544088.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c00da75fd7001b561957",
+        "location": {
+            "coordinates": [
+                -123.117865,
+                38.960052
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544088.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c024a75fd7001b561968",
+        "location": {
+            "coordinates": [
+                -123.117952,
+                38.960435
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544090.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c040f83377001b5c85a7",
+        "location": {
+            "coordinates": [
+                -123.11801,
+                38.960317
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544097.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c017f83377001b5c8598",
+        "location": {
+            "coordinates": [
+                -123.118,
+                38.96049
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544098.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c00da75fd7001b561958",
+        "location": {
+            "coordinates": [
+                -123.117855,
+                38.960025
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544098.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c024f83377001b5c85a0",
+        "location": {
+            "coordinates": [
+                -123.117952,
+                38.960435
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544100.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c040a75fd7001b56196e",
+        "location": {
+            "coordinates": [
+                -123.118017,
+                38.960318
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544107.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c017a75fd7001b561962",
+        "location": {
+            "coordinates": [
+                -123.118003,
+                38.960492
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544108.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c00df83377001b5c858d",
+        "location": {
+            "coordinates": [
+                -123.117855,
+                38.960025
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544108.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c024a75fd7001b56196b",
+        "location": {
+            "coordinates": [
+                -123.117952,
+                38.960435
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544110.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c040a75fd7001b561971",
+        "location": {
+            "coordinates": [
+                -123.11799,
+                38.96032
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544117.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c017a75fd7001b561960",
+        "location": {
+            "coordinates": [
+                -123.118,
+                38.960502
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544118.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c00df83377001b5c8593",
+        "location": {
+            "coordinates": [
+                -123.117855,
+                38.960025
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544118.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c00da75fd7001b56195e",
+        "location": {
+            "coordinates": [
+                -123.117855,
+                38.960025
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544118.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c024a75fd7001b561969",
+        "location": {
+            "coordinates": [
+                -123.117945,
+                38.960427
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544120.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c040a75fd7001b561972",
+        "location": {
+            "coordinates": [
+                -123.117945,
+                38.960343
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544127.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c017f83377001b5c8599",
+        "location": {
+            "coordinates": [
+                -123.118002,
+                38.960517
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544128.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c017f83377001b5c859a",
+        "location": {
+            "coordinates": [
+                -123.118002,
+                38.960517
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544128.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c024f83377001b5c859b",
+        "location": {
+            "coordinates": [
+                -123.117982,
+                38.96041
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544130.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c040f83377001b5c85a9",
+        "location": {
+            "coordinates": [
+                -123.117938,
+                38.96035
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544137.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0a5f83377001b5c85b1",
+        "location": {
+            "coordinates": [
+                -123.117855,
+                38.960025
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544138.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c024f83377001b5c859e",
+        "location": {
+            "coordinates": [
+                -123.11798,
+                38.960418
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544140.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c024f83377001b5c859f",
+        "location": {
+            "coordinates": [
+                -123.11798,
+                38.960418
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544140.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c040f83377001b5c85a8",
+        "location": {
+            "coordinates": [
+                -123.117938,
+                38.96035
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544147.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0afa75fd7001b56197f",
+        "location": {
+            "coordinates": [
+                -123.118125,
+                38.960878
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544148.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0a5a75fd7001b561978",
+        "location": {
+            "coordinates": [
+                -123.117845,
+                38.960023
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544148.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c040f83377001b5c85a4",
+        "location": {
+            "coordinates": [
+                -123.117933,
+                38.960328
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544157.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0aff83377001b5c85b5",
+        "location": {
+            "coordinates": [
+                -123.118093,
+                38.960828
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544158.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0a5a75fd7001b56197b",
+        "location": {
+            "coordinates": [
+                -123.117847,
+                38.960027
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544158.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0b9f83377001b5c85bf",
+        "location": {
+            "coordinates": [
+                -123.11798,
+                38.96042
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544160.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c040a75fd7001b561973",
+        "location": {
+            "coordinates": [
+                -123.117868,
+                38.960222
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544167.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c040a75fd7001b561974",
+        "location": {
+            "coordinates": [
+                -123.117868,
+                38.960222
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544167.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0afa75fd7001b561982",
+        "location": {
+            "coordinates": [
+                -123.118012,
+                38.960668
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544168.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0a5f83377001b5c85ab",
+        "location": {
+            "coordinates": [
+                -123.117847,
+                38.960027
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544168.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0b9f83377001b5c85b9",
+        "location": {
+            "coordinates": [
+                -123.118013,
+                38.960527
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544170.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0aff83377001b5c85b2",
+        "location": {
+            "coordinates": [
+                -123.117925,
+                38.960415
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544178.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0a5a75fd7001b56197a",
+        "location": {
+            "coordinates": [
+                -123.117847,
+                38.960027
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544178.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0b9a75fd7001b561987",
+        "location": {
+            "coordinates": [
+                -123.118057,
+                38.960775
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544180.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0d5f83377001b5c85c2",
+        "location": {
+            "coordinates": [
+                -123.117743,
+                38.96
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544187.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0afa75fd7001b561983",
+        "location": {
+            "coordinates": [
+                -123.11785,
+                38.960175
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544188.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0a5a75fd7001b561977",
+        "location": {
+            "coordinates": [
+                -123.11785,
+                38.960033
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544188.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0b9f83377001b5c85be",
+        "location": {
+            "coordinates": [
+                -123.118195,
+                38.960852
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544190.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0d5f83377001b5c85c0",
+        "location": {
+            "coordinates": [
+                -123.117728,
+                38.959792
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544196.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0afa75fd7001b561984",
+        "location": {
+            "coordinates": [
+                -123.117768,
+                38.959952
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544198.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0a5f83377001b5c85ad",
+        "location": {
+            "coordinates": [
+                -123.11785,
+                38.960035
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544198.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0b9a75fd7001b56198c",
+        "location": {
+            "coordinates": [
+                -123.118118,
+                38.960875
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544200.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0d5a75fd7001b561993",
+        "location": {
+            "coordinates": [
+                -123.117627,
+                38.959512
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544206.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0afa75fd7001b56197d",
+        "location": {
+            "coordinates": [
+                -123.117668,
+                38.959692
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544208.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0a5a75fd7001b561976",
+        "location": {
+            "coordinates": [
+                -123.11785,
+                38.960035
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544208.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0b9a75fd7001b561988",
+        "location": {
+            "coordinates": [
+                -123.118078,
+                38.960733
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544210.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0d5f83377001b5c85c6",
+        "location": {
+            "coordinates": [
+                -123.11751,
+                38.959138
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544217.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0aff83377001b5c85b3",
+        "location": {
+            "coordinates": [
+                -123.117585,
+                38.959435
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544218.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0a5f83377001b5c85ae",
+        "location": {
+            "coordinates": [
+                -123.11785,
+                38.960035
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544218.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0b9f83377001b5c85bb",
+        "location": {
+            "coordinates": [
+                -123.117965,
+                38.96049
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544220.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0d5f83377001b5c85c7",
+        "location": {
+            "coordinates": [
+                -123.117372,
+                38.958793
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544227.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0aff83377001b5c85b8",
+        "location": {
+            "coordinates": [
+                -123.117482,
+                38.959172
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544228.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0a5f83377001b5c85ac",
+        "location": {
+            "coordinates": [
+                -123.11785,
+                38.960035
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544228.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0b9a75fd7001b56198a",
+        "location": {
+            "coordinates": [
+                -123.11787,
+                38.960247
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544230.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0d5f83377001b5c85c1",
+        "location": {
+            "coordinates": [
+                -123.116903,
+                38.958703
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544237.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0aff83377001b5c85b4",
+        "location": {
+            "coordinates": [
+                -123.117395,
+                38.95888
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544238.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0a5f83377001b5c85b0",
+        "location": {
+            "coordinates": [
+                -123.11785,
+                38.960035
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544238.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0b9f83377001b5c85bc",
+        "location": {
+            "coordinates": [
+                -123.117792,
+                38.96001
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544240.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0d5a75fd7001b561990",
+        "location": {
+            "coordinates": [
+                -123.116177,
+                38.958748
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544247.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0afa75fd7001b56197e",
+        "location": {
+            "coordinates": [
+                -123.1171,
+                38.95869
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544248.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0a5a75fd7001b561979",
+        "location": {
+            "coordinates": [
+                -123.117845,
+                38.960025
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544248.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0b9f83377001b5c85bd",
+        "location": {
+            "coordinates": [
+                -123.117727,
+                38.959765
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544250.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0d5a75fd7001b561992",
+        "location": {
+            "coordinates": [
+                -123.115655,
+                38.95897
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544257.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0afa75fd7001b561981",
+        "location": {
+            "coordinates": [
+                -123.116592,
+                38.958727
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544258.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0a5f83377001b5c85af",
+        "location": {
+            "coordinates": [
+                -123.117835,
+                38.959995
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544258.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0b9a75fd7001b561989",
+        "location": {
+            "coordinates": [
+                -123.117635,
+                38.959517
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544260.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0d5a75fd7001b561991",
+        "location": {
+            "coordinates": [
+                -123.115302,
+                38.958912
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544266.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0aff83377001b5c85b7",
+        "location": {
+            "coordinates": [
+                -123.116077,
+                38.958802
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544268.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0a5f83377001b5c85aa",
+        "location": {
+            "coordinates": [
+                -123.117833,
+                38.959978
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544268.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0a5a75fd7001b56197c",
+        "location": {
+            "coordinates": [
+                -123.117833,
+                38.959978
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544268.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0b9f83377001b5c85ba",
+        "location": {
+            "coordinates": [
+                -123.117538,
+                38.95926
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544270.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0d5a75fd7001b56198d",
+        "location": {
+            "coordinates": [
+                -123.11527,
+                38.958912
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544277.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0afa75fd7001b561980",
+        "location": {
+            "coordinates": [
+                -123.115692,
+                38.958967
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544278.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0aff83377001b5c85b6",
+        "location": {
+            "coordinates": [
+                -123.115692,
+                38.958967
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544278.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0b9a75fd7001b561985",
+        "location": {
+            "coordinates": [
+                -123.11745,
+                38.959008
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544280.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0d5f83377001b5c85c3",
+        "location": {
+            "coordinates": [
+                -123.115363,
+                38.959005
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544287.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c139a75fd7001b561999",
+        "location": {
+            "coordinates": [
+                -123.117837,
+                38.959977
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544288.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0b9a75fd7001b561986",
+        "location": {
+            "coordinates": [
+                -123.117338,
+                38.958762
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544290.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0b9a75fd7001b56198b",
+        "location": {
+            "coordinates": [
+                -123.117338,
+                38.958762
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544290.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0d5f83377001b5c85c4",
+        "location": {
+            "coordinates": [
+                -123.1154,
+                38.958987
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544297.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c151a75fd7001b5619a5",
+        "location": {
+            "coordinates": [
+                -123.115373,
+                38.958913
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544298.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c139a75fd7001b56199a",
+        "location": {
+            "coordinates": [
+                -123.11779,
+                38.95998
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544298.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0d5a75fd7001b56198e",
+        "location": {
+            "coordinates": [
+                -123.115422,
+                38.958987
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544307.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c151f83377001b5c85d7",
+        "location": {
+            "coordinates": [
+                -123.11542,
+                38.959023
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544308.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c139a75fd7001b561995",
+        "location": {
+            "coordinates": [
+                -123.117822,
+                38.959983
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544308.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c14fa75fd7001b56199f",
+        "location": {
+            "coordinates": [
+                -123.116508,
+                38.958722
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544310.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0d5a75fd7001b56198f",
+        "location": {
+            "coordinates": [
+                -123.115423,
+                38.958995
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544317.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c0d5f83377001b5c85c5",
+        "location": {
+            "coordinates": [
+                -123.115423,
+                38.958995
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544317.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c151f83377001b5c85d9",
+        "location": {
+            "coordinates": [
+                -123.115418,
+                38.95903
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544318.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c139f83377001b5c85cd",
+        "location": {
+            "coordinates": [
+                -123.117683,
+                38.95968
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544318.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c14fa75fd7001b56199d",
+        "location": {
+            "coordinates": [
+                -123.115988,
+                38.958815
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544320.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c151f83377001b5c85de",
+        "location": {
+            "coordinates": [
+                -123.115433,
+                38.959053
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544328.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c139a75fd7001b561997",
+        "location": {
+            "coordinates": [
+                -123.11755,
+                38.959317
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544328.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c14fa75fd7001b56199e",
+        "location": {
+            "coordinates": [
+                -123.115653,
+                38.958982
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544330.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c16aa75fd7001b5619af",
+        "location": {
+            "coordinates": [
+                -123.115433,
+                38.958995
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544336.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c151f83377001b5c85db",
+        "location": {
+            "coordinates": [
+                -123.115455,
+                38.95905
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544338.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c139f83377001b5c85cf",
+        "location": {
+            "coordinates": [
+                -123.11742,
+                38.958965
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544338.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c14fa75fd7001b5619a2",
+        "location": {
+            "coordinates": [
+                -123.115362,
+                38.958952
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544340.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c16af83377001b5c85e3",
+        "location": {
+            "coordinates": [
+                -123.115423,
+                38.958997
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544347.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c151a75fd7001b5619a6",
+        "location": {
+            "coordinates": [
+                -123.115428,
+                38.959053
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544348.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c139a75fd7001b561996",
+        "location": {
+            "coordinates": [
+                -123.117218,
+                38.9587
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544348.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c14fa75fd7001b5619a3",
+        "location": {
+            "coordinates": [
+                -123.115292,
+                38.958968
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544350.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c16af83377001b5c85e2",
+        "location": {
+            "coordinates": [
+                -123.115433,
+                38.959012
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544357.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c151f83377001b5c85da",
+        "location": {
+            "coordinates": [
+                -123.115463,
+                38.959072
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544358.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c139f83377001b5c85c9",
+        "location": {
+            "coordinates": [
+                -123.1166,
+                38.958692
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544358.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c14fa75fd7001b5619a1",
+        "location": {
+            "coordinates": [
+                -123.115347,
+                38.958973
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544360.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c16aa75fd7001b5619b3",
+        "location": {
+            "coordinates": [
+                -123.11544,
+                38.959017
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544367.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c151a75fd7001b5619ab",
+        "location": {
+            "coordinates": [
+                -123.115422,
+                38.959135
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544368.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c139f83377001b5c85cb",
+        "location": {
+            "coordinates": [
+                -123.115898,
+                38.95882
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544368.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c14ff83377001b5c85d1",
+        "location": {
+            "coordinates": [
+                -123.11539,
+                38.959002
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544370.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c16aa75fd7001b5619ac",
+        "location": {
+            "coordinates": [
+                -123.115448,
+                38.959045
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544377.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c151f83377001b5c85dc",
+        "location": {
+            "coordinates": [
+                -123.115397,
+                38.959142
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544378.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c139a75fd7001b56199b",
+        "location": {
+            "coordinates": [
+                -123.115547,
+                38.958983
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544378.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c14fa75fd7001b5619a0",
+        "location": {
+            "coordinates": [
+                -123.11543,
+                38.95906
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544380.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c16af83377001b5c85e5",
+        "location": {
+            "coordinates": [
+                -123.11544,
+                38.95909
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544387.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c151a75fd7001b5619a8",
+        "location": {
+            "coordinates": [
+                -123.115397,
+                38.959138
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544388.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c139f83377001b5c85ca",
+        "location": {
+            "coordinates": [
+                -123.115487,
+                38.95898
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544388.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c14fa75fd7001b5619a4",
+        "location": {
+            "coordinates": [
+                -123.115428,
+                38.959053
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544390.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c16af83377001b5c85e0",
+        "location": {
+            "coordinates": [
+                -123.115415,
+                38.959088
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544397.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c151a75fd7001b5619a7",
+        "location": {
+            "coordinates": [
+                -123.115385,
+                38.959157
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544398.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c139a75fd7001b561998",
+        "location": {
+            "coordinates": [
+                -123.115487,
+                38.95898
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544398.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c14ff83377001b5c85d2",
+        "location": {
+            "coordinates": [
+                -123.115435,
+                38.959048
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544400.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c16aa75fd7001b5619ad",
+        "location": {
+            "coordinates": [
+                -123.115397,
+                38.959083
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544407.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c151f83377001b5c85dd",
+        "location": {
+            "coordinates": [
+                -123.115395,
+                38.95921
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544408.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c139f83377001b5c85cc",
+        "location": {
+            "coordinates": [
+                -123.115467,
+                38.958983
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544408.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c14ff83377001b5c85d6",
+        "location": {
+            "coordinates": [
+                -123.115427,
+                38.959052
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544410.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c16af83377001b5c85e4",
+        "location": {
+            "coordinates": [
+                -123.115383,
+                38.959075
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544417.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c151a75fd7001b5619aa",
+        "location": {
+            "coordinates": [
+                -123.115395,
+                38.95916
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544418.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c139f83377001b5c85c8",
+        "location": {
+            "coordinates": [
+                -123.115393,
+                38.958992
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544418.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c139f83377001b5c85ce",
+        "location": {
+            "coordinates": [
+                -123.115393,
+                38.958992
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544418.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c14ff83377001b5c85d4",
+        "location": {
+            "coordinates": [
+                -123.115428,
+                38.959055
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544420.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c16aa75fd7001b5619b1",
+        "location": {
+            "coordinates": [
+                -123.115385,
+                38.959062
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544427.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c151f83377001b5c85d8",
+        "location": {
+            "coordinates": [
+                -123.115385,
+                38.959163
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544428.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c151a75fd7001b5619a9",
+        "location": {
+            "coordinates": [
+                -123.115385,
+                38.959163
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544428.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c14ff83377001b5c85d5",
+        "location": {
+            "coordinates": [
+                -123.115422,
+                38.959017
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544430.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c16af83377001b5c85e1",
+        "location": {
+            "coordinates": [
+                -123.11541,
+                38.959045
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544437.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1cff83377001b5c85e7",
+        "location": {
+            "coordinates": [
+                -123.115407,
+                38.959053
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544438.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c14ff83377001b5c85d0",
+        "location": {
+            "coordinates": [
+                -123.115402,
+                38.959017
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544440.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c14ff83377001b5c85d3",
+        "location": {
+            "coordinates": [
+                -123.115402,
+                38.959017
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544440.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c16aa75fd7001b5619b0",
+        "location": {
+            "coordinates": [
+                -123.115435,
+                38.95902
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544447.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1d9f83377001b5c85ef",
+        "location": {
+            "coordinates": [
+                -123.115363,
+                38.95909
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544448.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1cfa75fd7001b5619b8",
+        "location": {
+            "coordinates": [
+                -123.11541,
+                38.959058
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544448.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c16aa75fd7001b5619b2",
+        "location": {
+            "coordinates": [
+                -123.115418,
+                38.95899
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544457.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1d9f83377001b5c85ee",
+        "location": {
+            "coordinates": [
+                -123.11537,
+                38.959053
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544458.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1cff83377001b5c85ea",
+        "location": {
+            "coordinates": [
+                -123.11541,
+                38.959058
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544458.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1e7a75fd7001b5619c6",
+        "location": {
+            "coordinates": [
+                -123.115418,
+                38.959013
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544460.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c16af83377001b5c85df",
+        "location": {
+            "coordinates": [
+                -123.115397,
+                38.959003
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544467.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c16aa75fd7001b5619ae",
+        "location": {
+            "coordinates": [
+                -123.115397,
+                38.959003
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544467.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1d9f83377001b5c85f4",
+        "location": {
+            "coordinates": [
+                -123.115362,
+                38.959003
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544468.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1cfa75fd7001b5619ba",
+        "location": {
+            "coordinates": [
+                -123.115445,
+                38.95905
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544468.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1e7f83377001b5c85f7",
+        "location": {
+            "coordinates": [
+                -123.115443,
+                38.959003
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544470.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1d9a75fd7001b5619c1",
+        "location": {
+            "coordinates": [
+                -123.115378,
+                38.958972
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544478.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1cfa75fd7001b5619b4",
+        "location": {
+            "coordinates": [
+                -123.115465,
+                38.959032
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544478.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1e7a75fd7001b5619c3",
+        "location": {
+            "coordinates": [
+                -123.115452,
+                38.958988
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544480.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c201a75fd7001b5619d0",
+        "location": {
+            "coordinates": [
+                -123.115367,
+                38.959005
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544487.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1d9a75fd7001b5619c0",
+        "location": {
+            "coordinates": [
+                -123.115398,
+                38.959057
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544488.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1cff83377001b5c85ec",
+        "location": {
+            "coordinates": [
+                -123.115477,
+                38.958995
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544488.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1e7f83377001b5c85f5",
+        "location": {
+            "coordinates": [
+                -123.115433,
+                38.958997
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544490.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c201f83377001b5c85fe",
+        "location": {
+            "coordinates": [
+                -123.115368,
+                38.958998
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544497.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1d9f83377001b5c85f2",
+        "location": {
+            "coordinates": [
+                -123.11539,
+                38.959108
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544498.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1cfa75fd7001b5619b6",
+        "location": {
+            "coordinates": [
+                -123.115465,
+                38.959028
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544498.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1e7a75fd7001b5619c4",
+        "location": {
+            "coordinates": [
+                -123.115433,
+                38.958997
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544500.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c201a75fd7001b5619cf",
+        "location": {
+            "coordinates": [
+                -123.115368,
+                38.958998
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544507.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1d9a75fd7001b5619be",
+        "location": {
+            "coordinates": [
+                -123.115395,
+                38.959172
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544508.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1cff83377001b5c85eb",
+        "location": {
+            "coordinates": [
+                -123.115455,
+                38.959048
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544508.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1e7a75fd7001b5619c5",
+        "location": {
+            "coordinates": [
+                -123.115433,
+                38.958997
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544510.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c201a75fd7001b5619cd",
+        "location": {
+            "coordinates": [
+                -123.115352,
+                38.958978
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544517.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1d9a75fd7001b5619bb",
+        "location": {
+            "coordinates": [
+                -123.115408,
+                38.959197
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544518.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1cff83377001b5c85e8",
+        "location": {
+            "coordinates": [
+                -123.11545,
+                38.959055
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544518.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1e7a75fd7001b5619c8",
+        "location": {
+            "coordinates": [
+                -123.115465,
+                38.959037
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544520.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c201f83377001b5c8600",
+        "location": {
+            "coordinates": [
+                -123.115347,
+                38.958993
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544527.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1d9f83377001b5c85f3",
+        "location": {
+            "coordinates": [
+                -123.115353,
+                38.959113
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544528.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1cff83377001b5c85ed",
+        "location": {
+            "coordinates": [
+                -123.115463,
+                38.959015
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544528.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1e7f83377001b5c85f6",
+        "location": {
+            "coordinates": [
+                -123.115457,
+                38.959032
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544530.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c201a75fd7001b5619ca",
+        "location": {
+            "coordinates": [
+                -123.11537,
+                38.958995
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544537.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1d9a75fd7001b5619bf",
+        "location": {
+            "coordinates": [
+                -123.115345,
+                38.959075
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544538.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1cff83377001b5c85e6",
+        "location": {
+            "coordinates": [
+                -123.115473,
+                38.958992
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544538.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1e7f83377001b5c85fa",
+        "location": {
+            "coordinates": [
+                -123.115485,
+                38.959037
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544540.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c201a75fd7001b5619d1",
+        "location": {
+            "coordinates": [
+                -123.115368,
+                38.95899
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544547.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1d9a75fd7001b5619bc",
+        "location": {
+            "coordinates": [
+                -123.115357,
+                38.95901
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544548.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1cfa75fd7001b5619b7",
+        "location": {
+            "coordinates": [
+                -123.115452,
+                38.959003
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544548.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1e7a75fd7001b5619c9",
+        "location": {
+            "coordinates": [
+                -123.115487,
+                38.959033
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544550.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c201f83377001b5c85fd",
+        "location": {
+            "coordinates": [
+                -123.115425,
+                38.958963
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544557.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1d9a75fd7001b5619c2",
+        "location": {
+            "coordinates": [
+                -123.115368,
+                38.959033
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544558.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1cff83377001b5c85e9",
+        "location": {
+            "coordinates": [
+                -123.115433,
+                38.958998
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544558.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1e7f83377001b5c85fc",
+        "location": {
+            "coordinates": [
+                -123.115487,
+                38.959033
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544560.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c201f83377001b5c8603",
+        "location": {
+            "coordinates": [
+                -123.115475,
+                38.958937
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544567.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1d9a75fd7001b5619bd",
+        "location": {
+            "coordinates": [
+                -123.115367,
+                38.959073
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544568.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1cfa75fd7001b5619b5",
+        "location": {
+            "coordinates": [
+                -123.115427,
+                38.958998
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544568.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1cfa75fd7001b5619b9",
+        "location": {
+            "coordinates": [
+                -123.115427,
+                38.958998
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544568.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1e7f83377001b5c85fb",
+        "location": {
+            "coordinates": [
+                -123.115487,
+                38.959033
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544570.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c201a75fd7001b5619cb",
+        "location": {
+            "coordinates": [
+                -123.115503,
+                38.958967
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544577.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1d9f83377001b5c85f0",
+        "location": {
+            "coordinates": [
+                -123.115373,
+                38.959135
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544578.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1d9f83377001b5c85f1",
+        "location": {
+            "coordinates": [
+                -123.115373,
+                38.959135
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544578.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1e7f83377001b5c85f9",
+        "location": {
+            "coordinates": [
+                -123.115487,
+                38.959033
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544580.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c201f83377001b5c8601",
+        "location": {
+            "coordinates": [
+                -123.115502,
+                38.959037
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544587.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c266f83377001b5c8610",
+        "location": {
+            "coordinates": [
+                -123.115452,
+                38.958958
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544588.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1e7f83377001b5c85f8",
+        "location": {
+            "coordinates": [
+                -123.115487,
+                38.958982
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544590.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c1e7a75fd7001b5619c7",
+        "location": {
+            "coordinates": [
+                -123.115487,
+                38.958982
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544590.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c201a75fd7001b5619ce",
+        "location": {
+            "coordinates": [
+                -123.115505,
+                38.959045
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544597.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c237f83377001b5c8607",
+        "location": {
+            "coordinates": [
+                -123.115367,
+                38.959107
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544598.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c266a75fd7001b5619df",
+        "location": {
+            "coordinates": [
+                -123.115423,
+                38.959032
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544598.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c201f83377001b5c8602",
+        "location": {
+            "coordinates": [
+                -123.115487,
+                38.959012
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544607.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c237f83377001b5c8604",
+        "location": {
+            "coordinates": [
+                -123.115362,
+                38.959067
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544608.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c266a75fd7001b5619de",
+        "location": {
+            "coordinates": [
+                -123.115408,
+                38.959072
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544608.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c250a75fd7001b5619db",
+        "location": {
+            "coordinates": [
+                -123.115467,
+                38.959017
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544610.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c201f83377001b5c85ff",
+        "location": {
+            "coordinates": [
+                -123.115485,
+                38.959005
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544617.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c201a75fd7001b5619cc",
+        "location": {
+            "coordinates": [
+                -123.115485,
+                38.959005
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544617.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c237a75fd7001b5619d2",
+        "location": {
+            "coordinates": [
+                -123.115362,
+                38.959057
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544618.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c266a75fd7001b5619e3",
+        "location": {
+            "coordinates": [
+                -123.115428,
+                38.95905
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544618.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c250a75fd7001b5619dc",
+        "location": {
+            "coordinates": [
+                -123.115465,
+                38.959017
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544620.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c237f83377001b5c8606",
+        "location": {
+            "coordinates": [
+                -123.115362,
+                38.959057
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544628.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c266a75fd7001b5619e0",
+        "location": {
+            "coordinates": [
+                -123.115452,
+                38.959035
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544628.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c250f83377001b5c860b",
+        "location": {
+            "coordinates": [
+                -123.11544,
+                38.959033
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544630.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c239f83377001b5c8608",
+        "location": {
+            "coordinates": [
+                -123.115438,
+                38.959047
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544637.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c237a75fd7001b5619d5",
+        "location": {
+            "coordinates": [
+                -123.115357,
+                38.959043
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544638.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c266f83377001b5c860f",
+        "location": {
+            "coordinates": [
+                -123.115453,
+                38.959027
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544638.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c250f83377001b5c860e",
+        "location": {
+            "coordinates": [
+                -123.11543,
+                38.959057
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544640.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c239a75fd7001b5619d6",
+        "location": {
+            "coordinates": [
+                -123.115432,
+                38.959052
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544647.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c237f83377001b5c8605",
+        "location": {
+            "coordinates": [
+                -123.115357,
+                38.959043
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544648.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c266a75fd7001b5619e4",
+        "location": {
+            "coordinates": [
+                -123.115465,
+                38.959033
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544648.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c250a75fd7001b5619dd",
+        "location": {
+            "coordinates": [
+                -123.115415,
+                38.959063
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544650.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c239f83377001b5c8609",
+        "location": {
+            "coordinates": [
+                -123.115467,
+                38.959062
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544657.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c237a75fd7001b5619d3",
+        "location": {
+            "coordinates": [
+                -123.115372,
+                38.959042
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544658.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c237a75fd7001b5619d4",
+        "location": {
+            "coordinates": [
+                -123.115372,
+                38.959042
+            ],
+            "type": "Point"
+        },
+        "battery": 0.88,
+        "deviceId": "355154084965090",
+        "timestamp": 1580544658.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c266f83377001b5c8612",
+        "location": {
+            "coordinates": [
+                -123.11548,
+                38.959033
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544658.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c250f83377001b5c860c",
+        "location": {
+            "coordinates": [
+                -123.115415,
+                38.959063
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544660.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c239a75fd7001b5619d7",
+        "location": {
+            "coordinates": [
+                -123.115492,
+                38.959028
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544667.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c239a75fd7001b5619d8",
+        "location": {
+            "coordinates": [
+                -123.115492,
+                38.959028
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154081779486",
+        "timestamp": 1580544667.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c266f83377001b5c8616",
+        "location": {
+            "coordinates": [
+                -123.11551,
+                38.95905
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544668.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c250f83377001b5c860a",
+        "location": {
+            "coordinates": [
+                -123.115415,
+                38.959063
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544670.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c266f83377001b5c8611",
+        "location": {
+            "coordinates": [
+                -123.115532,
+                38.95905
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544678.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c250a75fd7001b5619da",
+        "location": {
+            "coordinates": [
+                -123.1154,
+                38.959053
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544680.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c266f83377001b5c8613",
+        "location": {
+            "coordinates": [
+                -123.115535,
+                38.95906
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544688.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c250a75fd7001b5619d9",
+        "location": {
+            "coordinates": [
+                -123.115385,
+                38.959045
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544690.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c250f83377001b5c860d",
+        "location": {
+            "coordinates": [
+                -123.115385,
+                38.959045
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081777720",
+        "timestamp": 1580544690.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c266a75fd7001b5619e1",
+        "location": {
+            "coordinates": [
+                -123.115523,
+                38.959078
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544698.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c266a75fd7001b5619e2",
+        "location": {
+            "coordinates": [
+                -123.115502,
+                38.959092
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544708.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c266f83377001b5c8614",
+        "location": {
+            "coordinates": [
+                -123.11545,
+                38.959095
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544718.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c266f83377001b5c8615",
+        "location": {
+            "coordinates": [
+                -123.11545,
+                38.959095
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544718.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c27ff83377001b5c8617",
+        "location": {
+            "coordinates": [
+                -123.115428,
+                38.959108
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544738.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c27fa75fd7001b5619e5",
+        "location": {
+            "coordinates": [
+                -123.115428,
+                38.959108
+            ],
+            "type": "Point"
+        },
+        "battery": 0.85,
+        "deviceId": "355154084996764",
+        "timestamp": 1580544738.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cbf83377001b5c861d",
+        "location": {
+            "coordinates": [
+                -123.115392,
+                38.959002
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545212.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cca75fd7001b5619ee",
+        "location": {
+            "coordinates": [
+                -123.115358,
+                38.959005
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545222.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cef83377001b5c8629",
+        "location": {
+            "coordinates": [
+                -123.115442,
+                38.95904
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545225.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4d7f83377001b5c8632",
+        "location": {
+            "coordinates": [
+                -123.115465,
+                38.959082
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545225.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c463a75fd7001b5619e8",
+        "location": {
+            "coordinates": [
+                -123.115395,
+                38.959075
+            ],
+            "type": "Point"
+        },
+        "battery": 0,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545228.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cbf83377001b5c861c",
+        "location": {
+            "coordinates": [
+                -123.115377,
+                38.959045
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545232.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c450f83377001b5c861a",
+        "location": {
+            "coordinates": [
+                -123.115428,
+                38.959108
+            ],
+            "type": "Point"
+        },
+        "battery": 0,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545234.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cef83377001b5c862b",
+        "location": {
+            "coordinates": [
+                -123.115445,
+                38.95907
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545235.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cda75fd7001b5619f1",
+        "location": {
+            "coordinates": [
+                -123.115253,
+                38.958945
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545235.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4d7a75fd7001b561a01",
+        "location": {
+            "coordinates": [
+                -123.115408,
+                38.959065
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545235.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c468f83377001b5c861b",
+        "location": {
+            "coordinates": [
+                -123.11554,
+                38.958878
+            ],
+            "type": "Point"
+        },
+        "battery": 0,
+        "deviceId": "355154081775625",
+        "timestamp": 1580545237.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4ccf83377001b5c861f",
+        "location": {
+            "coordinates": [
+                -123.115352,
+                38.959045
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545242.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cea75fd7001b5619f9",
+        "location": {
+            "coordinates": [
+                -123.11542,
+                38.959068
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545245.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cdf83377001b5c8624",
+        "location": {
+            "coordinates": [
+                -123.115373,
+                38.959012
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545245.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4d7a75fd7001b561a02",
+        "location": {
+            "coordinates": [
+                -123.115375,
+                38.959075
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545245.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c45ca75fd7001b5619e7",
+        "location": {
+            "coordinates": [
+                -123.11536,
+                38.959007
+            ],
+            "type": "Point"
+        },
+        "battery": 0,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545246.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cca75fd7001b5619ec",
+        "location": {
+            "coordinates": [
+                -123.115352,
+                38.959045
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545252.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cea75fd7001b5619f8",
+        "location": {
+            "coordinates": [
+                -123.11542,
+                38.959072
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545255.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cdf83377001b5c8623",
+        "location": {
+            "coordinates": [
+                -123.115425,
+                38.959048
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545255.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4d7f83377001b5c8633",
+        "location": {
+            "coordinates": [
+                -123.115373,
+                38.959078
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545255.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cca75fd7001b5619f0",
+        "location": {
+            "coordinates": [
+                -123.115352,
+                38.959045
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545262.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cea75fd7001b5619fb",
+        "location": {
+            "coordinates": [
+                -123.11542,
+                38.959072
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545265.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cdf83377001b5c8622",
+        "location": {
+            "coordinates": [
+                -123.115422,
+                38.959042
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545265.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4d7f83377001b5c8630",
+        "location": {
+            "coordinates": [
+                -123.115373,
+                38.959078
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545265.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cca75fd7001b5619eb",
+        "location": {
+            "coordinates": [
+                -123.115352,
+                38.959045
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545272.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cef83377001b5c862a",
+        "location": {
+            "coordinates": [
+                -123.11542,
+                38.959072
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545275.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cda75fd7001b5619f4",
+        "location": {
+            "coordinates": [
+                -123.115422,
+                38.959042
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545275.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4d7f83377001b5c8635",
+        "location": {
+            "coordinates": [
+                -123.115373,
+                38.959078
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545275.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cca75fd7001b5619ef",
+        "location": {
+            "coordinates": [
+                -123.115352,
+                38.959045
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545282.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cea75fd7001b5619f6",
+        "location": {
+            "coordinates": [
+                -123.11542,
+                38.959072
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545285.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cdf83377001b5c8625",
+        "location": {
+            "coordinates": [
+                -123.115422,
+                38.959042
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545285.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4d7a75fd7001b5619fe",
+        "location": {
+            "coordinates": [
+                -123.115373,
+                38.959078
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545285.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4ccf83377001b5c861e",
+        "location": {
+            "coordinates": [
+                -123.115352,
+                38.959045
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545292.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cef83377001b5c862c",
+        "location": {
+            "coordinates": [
+                -123.11542,
+                38.959072
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545295.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cda75fd7001b5619f3",
+        "location": {
+            "coordinates": [
+                -123.115422,
+                38.959042
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545295.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4d7a75fd7001b5619fc",
+        "location": {
+            "coordinates": [
+                -123.115373,
+                38.959078
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545295.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4ccf83377001b5c8620",
+        "location": {
+            "coordinates": [
+                -123.115367,
+                38.959112
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545302.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cef83377001b5c862d",
+        "location": {
+            "coordinates": [
+                -123.115417,
+                38.95909
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545305.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cdf83377001b5c8626",
+        "location": {
+            "coordinates": [
+                -123.115422,
+                38.959042
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545305.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4d7a75fd7001b561a03",
+        "location": {
+            "coordinates": [
+                -123.115402,
+                38.959058
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545305.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cba75fd7001b5619e9",
+        "location": {
+            "coordinates": [
+                -123.115358,
+                38.959118
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545312.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cef83377001b5c862e",
+        "location": {
+            "coordinates": [
+                -123.115418,
+                38.95909
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545315.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cdf83377001b5c8627",
+        "location": {
+            "coordinates": [
+                -123.115365,
+                38.959047
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545315.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4d7f83377001b5c8631",
+        "location": {
+            "coordinates": [
+                -123.115402,
+                38.959058
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545315.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cca75fd7001b5619ed",
+        "location": {
+            "coordinates": [
+                -123.115363,
+                38.959122
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545322.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cea75fd7001b5619f7",
+        "location": {
+            "coordinates": [
+                -123.115418,
+                38.95909
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545325.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cda75fd7001b5619f2",
+        "location": {
+            "coordinates": [
+                -123.11535,
+                38.959047
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545325.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4d7a75fd7001b5619ff",
+        "location": {
+            "coordinates": [
+                -123.115402,
+                38.959058
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545325.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cba75fd7001b5619ea",
+        "location": {
+            "coordinates": [
+                -123.115367,
+                38.959108
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545332.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4ccf83377001b5c8621",
+        "location": {
+            "coordinates": [
+                -123.115367,
+                38.959108
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545332.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cea75fd7001b5619fa",
+        "location": {
+            "coordinates": [
+                -123.115418,
+                38.95909
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545335.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cef83377001b5c862f",
+        "location": {
+            "coordinates": [
+                -123.115418,
+                38.95909
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545335.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cda75fd7001b5619f5",
+        "location": {
+            "coordinates": [
+                -123.115342,
+                38.959038
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545335.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4cdf83377001b5c8628",
+        "location": {
+            "coordinates": [
+                -123.115342,
+                38.959038
+            ],
+            "type": "Point"
+        },
+        "battery": 0.91,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545335.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4d7f83377001b5c8634",
+        "location": {
+            "coordinates": [
+                -123.115402,
+                38.959058
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545335.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4d7a75fd7001b5619fd",
+        "location": {
+            "coordinates": [
+                -123.115402,
+                38.959058
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545345.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c4d7a75fd7001b561a00",
+        "location": {
+            "coordinates": [
+                -123.115402,
+                38.959058
+            ],
+            "type": "Point"
+        },
+        "battery": 0.87,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545345.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c560a75fd7001b561a05",
+        "location": {
+            "coordinates": [
+                -123.115365,
+                38.959103
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545352.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563f83377001b5c864b",
+        "location": {
+            "coordinates": [
+                -123.11543,
+                38.95907
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545355.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563f83377001b5c8640",
+        "location": {
+            "coordinates": [
+                -123.115353,
+                38.95902
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545355.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c560a75fd7001b561a0a",
+        "location": {
+            "coordinates": [
+                -123.115357,
+                38.959045
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545362.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563a75fd7001b561a12",
+        "location": {
+            "coordinates": [
+                -123.11543,
+                38.95907
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545365.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563a75fd7001b561a0c",
+        "location": {
+            "coordinates": [
+                -123.115373,
+                38.959022
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545365.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c56da75fd7001b561a20",
+        "location": {
+            "coordinates": [
+                -123.115402,
+                38.959058
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545365.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c560f83377001b5c8636",
+        "location": {
+            "coordinates": [
+                -123.115355,
+                38.959032
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545372.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563a75fd7001b561a18",
+        "location": {
+            "coordinates": [
+                -123.115427,
+                38.959037
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545375.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563a75fd7001b561a0e",
+        "location": {
+            "coordinates": [
+                -123.115385,
+                38.959015
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545375.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c56da75fd7001b561a1f",
+        "location": {
+            "coordinates": [
+                -123.115385,
+                38.959058
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545375.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c560f83377001b5c863d",
+        "location": {
+            "coordinates": [
+                -123.115348,
+                38.959017
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545382.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563f83377001b5c864a",
+        "location": {
+            "coordinates": [
+                -123.115423,
+                38.959032
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545385.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563f83377001b5c8641",
+        "location": {
+            "coordinates": [
+                -123.115385,
+                38.959015
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545385.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c56df83377001b5c864e",
+        "location": {
+            "coordinates": [
+                -123.115385,
+                38.959058
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545385.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c560f83377001b5c8638",
+        "location": {
+            "coordinates": [
+                -123.115348,
+                38.959017
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545392.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563a75fd7001b561a19",
+        "location": {
+            "coordinates": [
+                -123.115423,
+                38.959032
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545395.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563a75fd7001b561a10",
+        "location": {
+            "coordinates": [
+                -123.11539,
+                38.95904
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545395.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c56df83377001b5c8651",
+        "location": {
+            "coordinates": [
+                -123.115423,
+                38.959092
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545395.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c560f83377001b5c8637",
+        "location": {
+            "coordinates": [
+                -123.115348,
+                38.959017
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545402.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563f83377001b5c8646",
+        "location": {
+            "coordinates": [
+                -123.115435,
+                38.959053
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545405.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563a75fd7001b561a0b",
+        "location": {
+            "coordinates": [
+                -123.11539,
+                38.95904
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545405.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c56da75fd7001b561a1a",
+        "location": {
+            "coordinates": [
+                -123.115423,
+                38.959092
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545405.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c560f83377001b5c863c",
+        "location": {
+            "coordinates": [
+                -123.115348,
+                38.959017
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545412.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563a75fd7001b561a17",
+        "location": {
+            "coordinates": [
+                -123.115442,
+                38.959058
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545415.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563f83377001b5c863e",
+        "location": {
+            "coordinates": [
+                -123.11539,
+                38.95904
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545415.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c56da75fd7001b561a1d",
+        "location": {
+            "coordinates": [
+                -123.115423,
+                38.9591
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545415.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c560a75fd7001b561a04",
+        "location": {
+            "coordinates": [
+                -123.115348,
+                38.959017
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545422.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563a75fd7001b561a16",
+        "location": {
+            "coordinates": [
+                -123.11544,
+                38.959057
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545425.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563f83377001b5c8642",
+        "location": {
+            "coordinates": [
+                -123.11539,
+                38.95904
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545425.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c56df83377001b5c864f",
+        "location": {
+            "coordinates": [
+                -123.115425,
+                38.959098
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545425.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c560f83377001b5c863a",
+        "location": {
+            "coordinates": [
+                -123.115338,
+                38.959007
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545432.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563f83377001b5c8647",
+        "location": {
+            "coordinates": [
+                -123.115432,
+                38.959047
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545435.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563f83377001b5c8643",
+        "location": {
+            "coordinates": [
+                -123.115397,
+                38.959037
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545435.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c56da75fd7001b561a1c",
+        "location": {
+            "coordinates": [
+                -123.115425,
+                38.959098
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545435.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c560a75fd7001b561a08",
+        "location": {
+            "coordinates": [
+                -123.115343,
+                38.95901
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545442.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563f83377001b5c8649",
+        "location": {
+            "coordinates": [
+                -123.115432,
+                38.959048
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545445.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563f83377001b5c8645",
+        "location": {
+            "coordinates": [
+                -123.115393,
+                38.95903
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545445.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c56da75fd7001b561a21",
+        "location": {
+            "coordinates": [
+                -123.115425,
+                38.959098
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545445.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c560a75fd7001b561a09",
+        "location": {
+            "coordinates": [
+                -123.115343,
+                38.959008
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545452.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563f83377001b5c864c",
+        "location": {
+            "coordinates": [
+                -123.115432,
+                38.959048
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545455.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563f83377001b5c863f",
+        "location": {
+            "coordinates": [
+                -123.1154,
+                38.959043
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545455.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c56df83377001b5c8652",
+        "location": {
+            "coordinates": [
+                -123.115418,
+                38.959092
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545455.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c560f83377001b5c8639",
+        "location": {
+            "coordinates": [
+                -123.115343,
+                38.959003
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545462.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563a75fd7001b561a15",
+        "location": {
+            "coordinates": [
+                -123.115432,
+                38.959048
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545465.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563a75fd7001b561a0f",
+        "location": {
+            "coordinates": [
+                -123.1154,
+                38.959043
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545465.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c56df83377001b5c8653",
+        "location": {
+            "coordinates": [
+                -123.115418,
+                38.959092
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545465.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c560f83377001b5c863b",
+        "location": {
+            "coordinates": [
+                -123.115348,
+                38.959012
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545472.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563a75fd7001b561a13",
+        "location": {
+            "coordinates": [
+                -123.115437,
+                38.959043
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545475.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563f83377001b5c8644",
+        "location": {
+            "coordinates": [
+                -123.1154,
+                38.959043
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545475.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c56da75fd7001b561a1b",
+        "location": {
+            "coordinates": [
+                -123.115413,
+                38.959087
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545475.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c560a75fd7001b561a06",
+        "location": {
+            "coordinates": [
+                -123.115353,
+                38.959013
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545482.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c560a75fd7001b561a07",
+        "location": {
+            "coordinates": [
+                -123.115353,
+                38.959013
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545482.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563f83377001b5c8648",
+        "location": {
+            "coordinates": [
+                -123.115445,
+                38.959048
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545485.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563a75fd7001b561a14",
+        "location": {
+            "coordinates": [
+                -123.115445,
+                38.959048
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545485.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563a75fd7001b561a0d",
+        "location": {
+            "coordinates": [
+                -123.1154,
+                38.959043
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545485.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c563a75fd7001b561a11",
+        "location": {
+            "coordinates": [
+                -123.1154,
+                38.959043
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545485.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c56df83377001b5c8650",
+        "location": {
+            "coordinates": [
+                -123.115413,
+                38.959087
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545485.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c56df83377001b5c864d",
+        "location": {
+            "coordinates": [
+                -123.115408,
+                38.959093
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545495.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c56da75fd7001b561a1e",
+        "location": {
+            "coordinates": [
+                -123.115408,
+                38.959093
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545495.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c576a75fd7001b561a22",
+        "location": {
+            "coordinates": [
+                -123.115367,
+                38.959025
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545502.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c576f83377001b5c8654",
+        "location": {
+            "coordinates": [
+                -123.115367,
+                38.959025
+            ],
+            "type": "Point"
+        },
+        "battery": 0.95,
+        "deviceId": "355154081777720",
+        "timestamp": 1580545502.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c57af83377001b5c8655",
+        "location": {
+            "coordinates": [
+                -123.115447,
+                38.959048
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545505.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c57bf83377001b5c8656",
+        "location": {
+            "coordinates": [
+                -123.115447,
+                38.959048
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154081779486",
+        "timestamp": 1580545505.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c59ea75fd7001b561a26",
+        "location": {
+            "coordinates": [
+                -123.115428,
+                38.959062
+            ],
+            "type": "Point"
+        },
+        "battery": 0.96,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545505.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c59ea75fd7001b561a24",
+        "location": {
+            "coordinates": [
+                -123.115428,
+                38.959062
+            ],
+            "type": "Point"
+        },
+        "battery": 0.96,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545515.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c584f83377001b5c8657",
+        "location": {
+            "coordinates": [
+                -123.11541,
+                38.959102
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545515.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c584a75fd7001b561a23",
+        "location": {
+            "coordinates": [
+                -123.11541,
+                38.959102
+            ],
+            "type": "Point"
+        },
+        "battery": 0.89,
+        "deviceId": "355154084996764",
+        "timestamp": 1580545515.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c59ef83377001b5c8659",
+        "location": {
+            "coordinates": [
+                -123.115428,
+                38.959062
+            ],
+            "type": "Point"
+        },
+        "battery": 0.96,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545525.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c59ea75fd7001b561a25",
+        "location": {
+            "coordinates": [
+                -123.115428,
+                38.959062
+            ],
+            "type": "Point"
+        },
+        "battery": 0.96,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545535.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e34c59ef83377001b5c8658",
+        "location": {
+            "coordinates": [
+                -123.115428,
+                38.959062
+            ],
+            "type": "Point"
+        },
+        "battery": 0.96,
+        "deviceId": "355154084965090",
+        "timestamp": 1580545535.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a70fa75fd7001b561a90",
+        "location": {
+            "coordinates": [
+                -119.044097,
+                34.222605
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603156.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a70fa75fd7001b561a8c",
+        "location": {
+            "coordinates": [
+                -119.044092,
+                34.222622
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603164.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a70ff83377001b5c86bb",
+        "location": {
+            "coordinates": [
+                -119.044087,
+                34.222628
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603176.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a70fa75fd7001b561a8e",
+        "location": {
+            "coordinates": [
+                -119.044087,
+                34.222628
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603186.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a70ff83377001b5c86bc",
+        "location": {
+            "coordinates": [
+                -119.044087,
+                34.222628
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603195.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a70ff83377001b5c86b9",
+        "location": {
+            "coordinates": [
+                -119.044087,
+                34.222628
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603205.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a70fa75fd7001b561a92",
+        "location": {
+            "coordinates": [
+                -119.044087,
+                34.222628
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603215.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a70fa75fd7001b561a8f",
+        "location": {
+            "coordinates": [
+                -119.044087,
+                34.222628
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603225.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a70ff83377001b5c86ba",
+        "location": {
+            "coordinates": [
+                -119.044087,
+                34.222628
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603235.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a70fa75fd7001b561a8d",
+        "location": {
+            "coordinates": [
+                -119.044087,
+                34.222628
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603245.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a70ff83377001b5c86b8",
+        "location": {
+            "coordinates": [
+                -119.044087,
+                34.222628
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603255.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a70fa75fd7001b561a91",
+        "location": {
+            "coordinates": [
+                -119.044087,
+                34.222628
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603255.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a7a7a75fd7001b561a93",
+        "location": {
+            "coordinates": [
+                -119.044102,
+                34.22263
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603275.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a7a7a75fd7001b561a99",
+        "location": {
+            "coordinates": [
+                -119.044102,
+                34.22263
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603285.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a7a7a75fd7001b561a94",
+        "location": {
+            "coordinates": [
+                -119.044102,
+                34.22263
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603295.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a7a7f83377001b5c86c3",
+        "location": {
+            "coordinates": [
+                -119.044102,
+                34.22263
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603305.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a7a7f83377001b5c86c0",
+        "location": {
+            "coordinates": [
+                -119.044102,
+                34.22263
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603315.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a7a7a75fd7001b561a97",
+        "location": {
+            "coordinates": [
+                -119.044102,
+                34.22263
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603325.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a7a7f83377001b5c86be",
+        "location": {
+            "coordinates": [
+                -119.044102,
+                34.22263
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603335.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a7a7f83377001b5c86c2",
+        "location": {
+            "coordinates": [
+                -119.044102,
+                34.22263
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603345.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a7a7f83377001b5c86bd",
+        "location": {
+            "coordinates": [
+                -119.044102,
+                34.22263
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603355.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a7a7f83377001b5c86c4",
+        "location": {
+            "coordinates": [
+                -119.044102,
+                34.22263
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603365.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a7a7f83377001b5c86bf",
+        "location": {
+            "coordinates": [
+                -119.044102,
+                34.22263
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603375.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a7a7a75fd7001b561a98",
+        "location": {
+            "coordinates": [
+                -119.044112,
+                34.222623
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603385.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a7a7f83377001b5c86c1",
+        "location": {
+            "coordinates": [
+                -119.044117,
+                34.22263
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603395.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a7a7a75fd7001b561a95",
+        "location": {
+            "coordinates": [
+                -119.044117,
+                34.22263
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603405.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a7a7a75fd7001b561a96",
+        "location": {
+            "coordinates": [
+                -119.044117,
+                34.22263
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603405.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a7bfa75fd7001b561a9a",
+        "location": {
+            "coordinates": [
+                -119.044137,
+                34.222645
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603425.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    },
+    {
+        "_id": "5e35a7bff83377001b5c86c5",
+        "location": {
+            "coordinates": [
+                -119.044137,
+                34.222645
+            ],
+            "type": "Point"
+        },
+        "battery": 1,
+        "deviceId": "355154084347133",
+        "timestamp": 1580603425.0,
+        "signalStrength": 0,
+        "dataType": "PASSIVE",
+        "__v": 0
+    }
+]
