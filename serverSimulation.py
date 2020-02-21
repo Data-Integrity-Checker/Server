@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-url = 'http://localhost:3000/post'
+url = 'http://localhost:3000/devices/update'
 
 with open('data/01-27-2020.json', 'r') as myfile:
     data=myfile.read()

@@ -1,29 +1,36 @@
-class Device {
-    constructor(id, battery, time_stamp) {
-        this.id = id;
-        this.battery = battery;
-        this.time_stamp = time_stamp
-        this.performance = 1.0;
-        this.missing_data_errors = 0;
-        this.gps_errors =0;
-        this.duplicate_data = 0;
-    }
+const mongoose = require('mongoose');
+require('mongoose-double')(mongoose);
 
-    addDuplicate_data(){
-        ;
+var SchemaTypes = mongoose.Schema.Types;
+const DeviceSchema = mongoose.Schema({
+    _id : {
+        type: String,
+        require: true
+    },
+    battery: {
+        type: SchemaTypes.Double,
+        require: true
+    },
+    performance: {
+        type: SchemaTypes.Double,
+        default: 1.0
+    },
+    duplicate_data: {
+        type: Number,
+        default: 0
+    },
+    missing_data_errors: {
+        type: Number,
+        default: 0
+    },
+    gps_errors: {
+        type: Number,
+        default: 0
+    },
+    last_update: {
+        type: Date,
+        default: Date.now
     }
+});
 
-    addGPS_errors(){
-        ;
-    }
-
-    addDataErrors(){
-        ;
-    }
-
-    updateBattery(battery){
-        this.battery = battery;
-    }
-}
-
-module.exports = Device;
+module.exports = mongoose.model('Device', DeviceSchema);
