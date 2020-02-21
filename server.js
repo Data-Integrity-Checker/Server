@@ -1,9 +1,11 @@
 const express = require('express');
 const app = express();
 const mongoose = require('mongoose');
-
-// Parser
 const bodyParser = require('body-parser');
+const cors = require('cors');
+
+// Middlewares
+app.use(cors());
 app.use(bodyParser.json());
 
 // Import Routes
