@@ -2,13 +2,9 @@ const mongoose = require('mongoose');
 require('mongoose-double')(mongoose);
 
 var SchemaTypes = mongoose.Schema.Types;
-const DeviceSchema = mongoose.Schema({
+const UpdateSchema = mongoose.Schema({
     _id : {
         type: String,
-        require: true
-    },
-    battery: {
-        type: SchemaTypes.Double,
         require: true
     },
     location: {

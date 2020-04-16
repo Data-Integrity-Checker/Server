@@ -36,14 +36,22 @@ router.patch('/:deviceId', async (req, res) => {
     }
 });
 
-// Update Device Info
+// Save Device
 router.post('/update', (req, res) => {
 
     console.log(req.body.deviceId);
 
+    let location = req.body.location;
+    console.log(location);
+
     const device = new Device({
         _id: req.body.deviceId,
-        battery: req.body.battery
+        battery: req.body.battery,
+        location: {type: location.type, 
+                   coordinates: [location.coordinates[0], 
+                                 location.coordinates[1]
+                                ]
+                  }
     });
 
     device.save()
@@ -53,6 +61,7 @@ router.post('/update', (req, res) => {
     .catch(err => {
         res.json({ message: err })
     })
+    
 });
 
 module.exports = router;

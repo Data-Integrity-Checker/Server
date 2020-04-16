@@ -5,8 +5,8 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 
 // Middlewares
-app.use(cors());
 app.use(bodyParser.json());
+app.use(cors());
 
 // Import Routes
 const devicesRouter = require('./routes/devices');
