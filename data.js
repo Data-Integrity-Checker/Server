@@ -23,8 +23,9 @@ function duplicateData(id){
 if(Device.collection("_id").find(id)==true){
     db.Device.update(
         {_id: id},
-        {$inc: {duplicateData: +1}}
+        {$inc: {duplicateData: +1}}//convert to int instead of string
         )
+        //add feature to save which entry was a duplicate
 }
 }
 
@@ -41,9 +42,23 @@ if(Device.collection("_id").find(id)==true){
 }
 }
 
+//call every 10 seconds, check to see if better fit in with device.js
 function lossData(deviceId){
-
+    let the_interval = 10000; //10sec
+setInterval(async function() {
+    try {
+        await Device.updateOne();//checks every 10 seconds if updated
+    } catch (e) {
+        // console.log("10 sec check error:", e);
+        //updates data loss if not updated
+        b.Device.update(
+            {_id: deviceId},
+            {$inc: {missing_data_errors: +1}}
+            )
+    }
+}, the_interval);
 }
 
 
 module.exports = router;
+
