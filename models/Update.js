@@ -18,20 +18,30 @@ const UpdateSchema = mongoose.Schema({
             required: true
         }
     },
-    performance: [String],
-    duplicate_data: [String],
-    missing_data_errors: {
-        start: String,
-        end: String,
+    battery : {
+        type: SchemaTypes.Double,
+        require: true
     },
-    gps_errors: {
-        type: Number,
-        default: 0
+    deviceId : {
+        type: String,
+        require: true
     },
-    last_update: {
+    timestamp : {
         type: Date,
-        default: Date.now
-    }
+        require: true
+    },
+    signalStrength : {
+        type: SchemaTypes.Double,
+        require: true
+    },
+    dataType : {
+        type: String,
+        require: true
+    },
+    __v : {
+        type: SchemaTypes.Double,
+        require: true
+    },
 });
 
-module.exports = mongoose.model('Device', DeviceSchema);
+module.exports = mongoose.model('Update', UpdateSchema);

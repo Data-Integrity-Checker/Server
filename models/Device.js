@@ -22,6 +22,18 @@ const DeviceSchema = mongoose.Schema({
             required: true
         }
     },
+    battery_history: [
+        {
+            persent: {
+                type: SchemaTypes.Double,
+            },
+            time: {
+                type: Date,
+                default: Date.now
+            }
+
+        },
+    ], 
     performance: [String],
     duplicate_data: [String],
     missing_data_errors: {

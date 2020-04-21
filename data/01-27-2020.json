@@ -24,7 +24,7 @@
             ],
             "type": "Point"
         },
-        "battery": 1,
+        "battery": 0.99,
         "deviceId": "355154081777720",
         "timestamp": 1580167048.0,
         "signalStrength": 0,
@@ -40,7 +40,7 @@
             ],
             "type": "Point"
         },
-        "battery": 1,
+        "battery": 0.98,
         "deviceId": "355154081777720",
         "timestamp": 1580167058.0,
         "signalStrength": 0,
@@ -56,7 +56,7 @@
             ],
             "type": "Point"
         },
-        "battery": 1,
+        "battery": 0.97,
         "deviceId": "355154081777720",
         "timestamp": 1580167068.0,
         "signalStrength": 0,

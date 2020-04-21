@@ -12,9 +12,12 @@ app.use(cors());
 const devicesRouter = require('./routes/devices');
 app.use('/devices', devicesRouter);
 
-// Clear Database
+// Clear Databases
 mongoose.connection.collections['devices'].drop( function(err) {
       console.log('Devices collection dropped');
+});
+mongoose.connection.collections['updates'].drop( function(err) {
+      console.log('Updates collection dropped');
 });
 
 // Connect to Database
