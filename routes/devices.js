@@ -7,7 +7,7 @@ const Update = require('../models/Update');
 const DeviceService = require('../services/devicesService');
 
 // Get All Devices
-router.get('/allDevices', async (req, res) => {
+router.get('/all', async (req, res) => {
     try{
         const devices = await Device.find();
         res.json(devices);
@@ -74,7 +74,14 @@ router.post('/update', async (req, res) => {
         }
 
         // Checking for data duclication
-        //if(oldDevice.timestamp === req.body.timestamp)
+        if(oldDevice.timestamp === req.body.timestamp){
+            changes["battery_history"] = [...oldDevice.battery_history, {persent: req.body.battery, time: req.body.timestamp}];
+        }
+
+        // Missing data
+
+
+        // GPS Error
 
 
         console.log(oldDevice);
