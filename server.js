@@ -19,6 +19,9 @@ mongoose.connection.collections['devices'].drop( function(err) {
 mongoose.connection.collections['updates'].drop( function(err) {
       console.log('Updates collection dropped');
 });
+mongoose.connection.collections['alerts'].drop( function(err) {
+      console.log('Updates collection dropped');
+});
 
 // Connect to Database
 mongoose.connect(

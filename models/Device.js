@@ -24,7 +24,7 @@ const DeviceSchema = mongoose.Schema({
     },
     battery_history: [
         {
-            persent: {
+            percent: {
                 type: SchemaTypes.Double,
             },
             time: {
@@ -34,20 +34,17 @@ const DeviceSchema = mongoose.Schema({
 
         },
     ], 
-    performance: [String],
-    duplicate_data: [String],
-    missing_data_errors: {
-        start: String,
-        end: String,
+    last_update_id: {
+        type: String,
+        required: true
     },
-    gps_errors: {
-        type: Number,
-        default: 0
-    },
-    last_update: {
+    last_update_time: {
         type: Date,
-        default: Date.now
-    }
+        required: true
+    },
+    duplicate_data: [String],
+    missing_data: [String],
+    gps_errors: [String],
 });
 
 module.exports = mongoose.model('Device', DeviceSchema);
