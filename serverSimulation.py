@@ -16,6 +16,6 @@ for i in range(len(updates)-1):
     seconds = updates[i+1]["timestamp"] - updates[i]["timestamp"]
     responce = requests.post(url, data=json.dumps(updates[i]), headers=headers)
     print(responce.text)
-    time.sleep(seconds/10)
+    time.sleep(seconds/5)
 
 responce = requests.post(url, data = updates[len(updates)-1])

@@ -46,15 +46,30 @@ router.get('/:deviceId', async (req, res) => {
     }
 });
 
+// Get Device ID
+router.get('/alerts/:deviceId', async (req, res) => {
 
-// Update Device
-router.patch('/:deviceId', async (req, res) => {
+    Alert.find({ 'deviceId': req.params.deviceId }, function (err, alerts) {
+        
+        if (err){
+            res.json({ message: err });
+        }
+        else{
+            res.json(alerts);
+        }
+    });
+
+});
+
+// Get specific alerts
+router.get('/alertType/:alert/:deviceId', async (req, res) => {
     try{
-        const updateDevice = await Device.updateOne(
-            { _id: req.params.postId }, 
-            {$set: {battery: 2}
-        })
-        res.json(updateDevice);
+        const alerts = await Alert.find({ 
+                'name' : req.params.alert,
+                'deviceId':  req.params.deviceId
+            });
+        console.log(alerts)
+        res.json(alerts);
     } catch(error){
         res.json({ message: err });
     }
@@ -87,7 +102,7 @@ router.post('/update', async (req, res) => {
         const d1 = new Date(oldDevice.last_update_time)
         const d2 = new Date(req.body.timestamp)
 
-        console.log(oldDevice._id);
+        //nconsole.log(oldDevice._id);
 
         // Checking for data duclication
         if(d1.getTime() == d2.getTime()){
@@ -104,8 +119,17 @@ router.post('/update', async (req, res) => {
         }
 
         // GPS Error 
+        let distance = DeviceService.distance(oldDevice.location.coordinates, req.body.location.coordinates);
+        
+        console.log(distance);
 
+        if(distance > 1)
+            console.log(oldDevice_id);
+
+        // Updating device
         const respond = await Device.updateOne({ _id: oldDevice._id }, changes);
+
+        // Saving updat4
         DeviceService.save(update, res);
 
         res.send(d1.getTime() + " " + d2.getTime());
