@@ -35,8 +35,8 @@
         "_id": "5e2eff7af83377001b5c2033",
         "location": {
             "coordinates": [
-                -123.115397,
-                38.95902
+                -87.831300,
+                33.680230
             ],
             "type": "Point"
         },
@@ -715,22 +715,6 @@
         "battery": 1,
         "deviceId": "355154081777720",
         "timestamp": 1580167288.0,
-        "signalStrength": 0,
-        "dataType": "PASSIVE",
-        "__v": 0
-    },
-    {
-        "_id": "5e2f00a6a75fd7001b55b407",
-        "location": {
-            "coordinates": [
-                -123.117235,
-                38.958693
-            ],
-            "type": "Point"
-        },
-        "battery": 1,
-        "deviceId": "355154081777720",
-        "timestamp": 1580167308.0,
         "signalStrength": 0,
         "dataType": "PASSIVE",
         "__v": 0

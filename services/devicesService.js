@@ -50,41 +50,50 @@ async function getDevice(id, res){
 }
 
 function createAlert(name, oldDevice, update){
-    return new Alert({
+
+    console.log(new Date(update.timestamp));
+    
+    let data = {
         deviceId: update.deviceId,
         name: name,
-        updates: [oldDevice.last_update_id, update._id]
-    });
+        updates: [oldDevice.last_update_id, update._id],
+        start: new Date(oldDevice.last_update_time),
+        end: new Date(update.timestamp)
+    }
+
+    if(name == "gps_errors"){
+        data["distance"] = oldDevice.distance;
+    }
+
+    return new Alert(data);
 }
 
-function distance(oldCoord, updateCoord) {
 
+function distance(oldCoord, updateCoord) {
+    let R = 6371e3; // R is earth’s radius
     let lat1 = oldCoord[0];
     let lon1 = oldCoord[1];
     let lat2 = updateCoord[0];
     let lon2 = updateCoord[1];
+    let lat1radians = toRadians(lat1);
+    let lat2radians = toRadians(lat2);
 
-	if ((lat1 == lat2) && (lon1 == lon2)) {
-		return 0;
-	}
-	else {
-		var radlat1 = Math.PI * lat1/180;
-		var radlat2 = Math.PI * lat2/180;
-		var theta = lon1-lon2;
-		var radtheta = Math.PI * theta/180;
-		var dist = Math.sin(radlat1) * Math.sin(radlat2) + Math.cos(radlat1) * Math.cos(radlat2) * Math.cos(radtheta);
-        
-        if (dist > 1) {
-			dist = 1;
-        }
-        
-		dist = Math.acos(dist);
-		dist = dist * 180/Math.PI;
-		dist = dist * 60 * 1.1515;
-		dist = dist * 1.609344
-		return dist/1000;//from kilometer to meter
-    }
-    
+    let latRadians = toRadians(lat2-lat1);
+    let lonRadians = toRadians(lon2-lon1);
+
+    let a = Math.sin(latRadians/2) * Math.sin(latRadians/2) +
+            Math.cos(lat1radians) * Math.cos(lat2radians) *
+            Math.sin(lonRadians/2) * Math.sin(lonRadians/2);
+    let c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+
+    let d = R * c;
+
+    return d;
+}
+
+function toRadians(val){
+    let PI = 3.1415926535;
+    return val / 180.0 * PI;
 }
 
 module.exports.createDevice = createDevice;

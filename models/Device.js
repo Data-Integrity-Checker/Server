@@ -42,6 +42,10 @@ const DeviceSchema = mongoose.Schema({
         type: Date,
         required: true
     },
+    first_update_time: {
+        type: Date,
+        default: Date.now
+    },
     duplicate_data: [String],
     missing_data: [String],
     gps_errors: [String],
