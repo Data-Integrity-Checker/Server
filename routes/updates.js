@@ -83,7 +83,9 @@ router.post('/record', async (req, res) => {
         // Saving update
         DeviceService.save(update, res);
 
-        res.send(d1.getTime() + " " + d2.getTime());
+        console.log("Updated Device: " + update.deviceId)
+
+        res.send(update._id + " update successful");
     }
 });
 

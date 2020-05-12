@@ -17,9 +17,8 @@ router.get('/all', async (req, res) => {
 // Get device by ID
 router.get('/:deviceId', async (req, res) => {
     try{
-        console.log(req.params.deviceId);
-        const device = await Device.findById(req.params.deviceId);
-        res.json(device);
+        const devices = await Device.findById(req.params.deviceId);
+        res.json(devices);
     } catch(error){
         res.json({ message: err });
     }
